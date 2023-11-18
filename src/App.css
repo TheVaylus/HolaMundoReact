@@ -1,0 +1,23 @@
+/* src/styles.css */
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+h1 {
+  text-align: center;
+  margin: 5% 0 5% 0;
+}
+/* Add more global styles as needed */
+
